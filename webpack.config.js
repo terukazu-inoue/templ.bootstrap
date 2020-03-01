@@ -3,7 +3,8 @@ var webpack = require("webpack");
 
 module.exports = {
   entry:{
-    index: "./src/index.ts"
+    index: "./src/index.ts",
+    formsample: "./src/formsample.ts"
   },
   
   module: {
